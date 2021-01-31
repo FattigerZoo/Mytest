@@ -1,4 +1,3 @@
-:date-formatter  "yyyy-MM-dd"
 {:journal-basis "daily" 
  
  :project {
