@@ -68,7 +68,8 @@
 
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
- :commands [[:date-formatter  "yyyy-MM-dd"]]
+ :commands 
+ []
  
 
  ;; Macros replace texts and will make you more productive.
@@ -78,4 +79,7 @@
  ;; input "{{{poem(red,blue)}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}}
+ :macros {}
+ 
+ :date-formatter  "yyyy-MM-dd"
+ }
